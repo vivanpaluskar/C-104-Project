@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(224, 194, 157);
+}
+#camera, #result{
+    background-color: black;
+}
+.heading{
+    background-color: rgb(195, 205, 50);
+}
